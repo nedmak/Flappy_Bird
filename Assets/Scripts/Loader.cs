@@ -11,7 +11,7 @@ public static class Loader
         Loading,
         MainMeniu
     }
-
+    
     private static Scene targetScene;
     public static void Load(Scene scene)
     {
